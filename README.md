@@ -16,7 +16,7 @@
 - 💻 Passionate about building scalable web applications and automation.  
 - 🏗️ Specializing in **MERN Stack (MongoDB, Express, React, Node.js)**.  
 - 🐳 Proficient in **Docker, CI/CD Pipelines, and VPS Deployments**.  
-- 🔥 Previously active on GitHub, but I have now **switched to GitLab** for most of my work.  
+- 🔥 ** 𝐏𝐫𝐞𝐯𝐢𝐨𝐮𝐬𝐥𝐲 𝐚𝐜𝐭𝐢𝐯𝐞 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛, 𝐛𝐮𝐭 𝐈 𝐡𝐚𝐯𝐞 𝐧𝐨𝐰 𝐬𝐰𝐢𝐭𝐜𝐡𝐞𝐝 𝐭𝐨 𝐆𝐢𝐭𝐋𝐚𝐛 𝐟𝐨𝐫 𝐦𝐨𝐬𝐭 𝐨𝐟 𝐦𝐲 𝐰𝐨𝐫𝐤. **  
 - 🔓 Some **public projects** are still available here, but my latest work is on **[GitLab]https://gitlab.com/naoladugna4747/**.  
 - 🔐 **Most of my projects are private**, but I am actively working on cutting-edge tech behind the scenes.  
 
